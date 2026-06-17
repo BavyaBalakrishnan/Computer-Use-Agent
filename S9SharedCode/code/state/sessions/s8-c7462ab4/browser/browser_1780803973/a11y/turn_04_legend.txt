@@ -1,0 +1,94 @@
+[1]<a>Hugging Face</a>
+[2]<input>Search models, datasets, users...</input>
+[3]<a>Models</a>
+[4]<a>Datasets</a>
+[5]<a>Spaces</a>
+[6]<a>Buckets NEW</a>
+[7]<a>Docs</a>
+[8]<a>Pricing</a>
+[9]<button></button>
+[10]<a>Tasks</a>
+[11]<a>HuggingChat</a>
+[12]<a>Collections</a>
+[13]<a>Languages</a>
+[14]<a>Organizations</a>
+[15]<a>Blog</a>
+[16]<a>Posts</a>
+[17]<a>Daily Papers</a>
+[18]<a>Learn</a>
+[19]<a>Discord</a>
+[20]<a>Forum</a>
+[21]<a>GitHub</a>
+[22]<a>Team & Enterprise</a>
+[23]<a>Hugging Face PRO</a>
+[24]<a>Enterprise Support</a>
+[25]<a>Inference Providers</a>
+[26]<a>Inference Endpoints</a>
+[27]<a>Storage Buckets</a>
+[28]<a>Log In</a>
+[29]<a>Sign Up</a>
+[30]<button>Main</button>
+[31]<button>Tasks 1</button>
+[32]<button>Libraries</button>
+[33]<button>Languages</button>
+[34]<button>Licenses</button>
+[35]<button>Other</button>
+[36]<button>Reset Tasks</button>
+[37]<a>Text Generation</a>
+[38]<a>Any-to-Any</a>
+[39]<a>Image-Text-to-Text</a>
+[40]<a>Image-to-Text</a>
+[41]<a>Image-to-Image</a>
+[42]<a>Text-to-Image</a>
+[43]<a>Text-to-Video</a>
+[44]<a>Text-to-Speech</a>
+[45]<button>+ 44</button>
+[46]<button>< 1B</button>
+[47]<button>6B</button>
+[48]<button>12B</button>
+[49]<button>32B</button>
+[50]<button>128B</button>
+[51]<button>> 500B</button>
+[52]<button>< 1B</button>
+[53]<button>> 500B</button>
+[54]<a>PyTorch</a>
+[55]<a>TensorFlow</a>
+[56]<a>JAX</a>
+[57]<a>Transformers</a>
+[58]<a>Diffusers</a>
+[59]<a>GGUF</a>
+[60]<a>MLX</a>
+[61]<a>Transformers.js</a>
+[62]<a>Safetensors</a>
+[63]<a>sentence-transformers</a>
+[64]<a>ONNX</a>
+[65]<button>+ 42</button>
+[66]<a>vLLM</a>
+[67]<a>llama.cpp</a>
+[68]<a>MLX LM</a>
+[69]<a>LM Studio</a>
+[70]<a>Ollama</a>
+[71]<a>Jan</a>
+[72]<a>Draw Things</a>
+[73]<button>+ 8</button>
+[74]<a>Groq</a>
+[75]<a>Novita</a>
+[76]<a>Cerebras</a>
+[77]<input>Filter by name</input>
+[78]<div role="switch">switch</div>
+[79]<button>Inference Available</button>
+[80]<button>Sort: Most likes</button>
+[81]<a>deepseek-ai/DeepSeek-R1 Text Generation • 685B • Updated Mar 27, 2025 • 5.75M • </a>
+[82]<a>meta-llama/Meta-Llama-3-8B Text Generation • 8B • Updated Sep 27, 2024 • 1.52M •</a>
+[83]<a>meta-llama/Llama-3.1-8B-Instruct Text Generation • 8B • Updated Sep 25, 2024 • 1</a>
+[84]<a>bigscience/bloom Text Generation • 176B • Updated Jul 28, 2023 • 6.83k • 5.01k</a>
+[85]<a>openai/gpt-oss-120b Text Generation • 120B • Updated Aug 26, 2025 • 4.5M • • 4.8</a>
+[86]<a>meta-llama/Llama-2-7b-chat-hf Text Generation • 7B • Updated Apr 17, 2024 • 273k</a>
+[87]<a>openai/gpt-oss-20b Text Generation • 22B • Updated Aug 26, 2025 • 7.57M • • 4.69</a>
+[88]<a>deepseek-ai/DeepSeek-V4-Pro Text Generation • 862B • Updated May 6 • 5.51M • • 4</a>
+[89]<a>meta-llama/Meta-Llama-3-8B-Instruct Text Generation • 8B • Updated Jun 19, 2025 </a>
+[90]<a>meta-llama/Llama-2-7b Text Generation • Updated Apr 17, 2024 • 198 • 4.5k</a>
+[91]<div></div>
+[92]<div></div>
+[93]<div></div>
+[94]<span>Base only</span>

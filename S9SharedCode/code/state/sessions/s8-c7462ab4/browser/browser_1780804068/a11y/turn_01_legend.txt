@@ -1,0 +1,96 @@
+[1]<a>Hugging Face</a>
+[2]<input>Search models, datasets, users...</input>
+[3]<a>Models</a>
+[4]<a>Datasets</a>
+[5]<a>Spaces</a>
+[6]<a>Buckets NEW</a>
+[7]<a>Docs</a>
+[8]<a>Pricing</a>
+[9]<button></button>
+[10]<a>Tasks</a>
+[11]<a>HuggingChat</a>
+[12]<a>Collections</a>
+[13]<a>Languages</a>
+[14]<a>Organizations</a>
+[15]<a>Blog</a>
+[16]<a>Posts</a>
+[17]<a>Daily Papers</a>
+[18]<a>Learn</a>
+[19]<a>Discord</a>
+[20]<a>Forum</a>
+[21]<a>GitHub</a>
+[22]<a>Team & Enterprise</a>
+[23]<a>Hugging Face PRO</a>
+[24]<a>Enterprise Support</a>
+[25]<a>Inference Providers</a>
+[26]<a>Inference Endpoints</a>
+[27]<a>Storage Buckets</a>
+[28]<a>Log In</a>
+[29]<a>Sign Up</a>
+[30]<button>Main</button>
+[31]<button>Tasks</button>
+[32]<button>Libraries</button>
+[33]<button>Languages</button>
+[34]<button>Licenses</button>
+[35]<button>Other</button>
+[36]<a>Text Generation</a>
+[37]<a>Any-to-Any</a>
+[38]<a>Image-Text-to-Text</a>
+[39]<a>Image-to-Text</a>
+[40]<a>Image-to-Image</a>
+[41]<a>Text-to-Image</a>
+[42]<a>Text-to-Video</a>
+[43]<a>Text-to-Speech</a>
+[44]<button>+ 44</button>
+[45]<button>< 1B</button>
+[46]<button>6B</button>
+[47]<button>12B</button>
+[48]<button>32B</button>
+[49]<button>128B</button>
+[50]<button>> 500B</button>
+[51]<button>< 1B</button>
+[52]<button>> 500B</button>
+[53]<a>PyTorch</a>
+[54]<a>TensorFlow</a>
+[55]<a>JAX</a>
+[56]<a>Transformers</a>
+[57]<a>Diffusers</a>
+[58]<a>GGUF</a>
+[59]<a>MLX</a>
+[60]<a>Transformers.js</a>
+[61]<a>Safetensors</a>
+[62]<a>sentence-transformers</a>
+[63]<a>ONNX</a>
+[64]<button>+ 42</button>
+[65]<a>vLLM</a>
+[66]<a>llama.cpp</a>
+[67]<a>MLX LM</a>
+[68]<a>LM Studio</a>
+[69]<a>Ollama</a>
+[70]<a>Jan</a>
+[71]<a>Draw Things</a>
+[72]<button>+ 8</button>
+[73]<a>Groq</a>
+[74]<a>Novita</a>
+[75]<a>Cerebras</a>
+[76]<input>Filter by name</input>
+[77]<div role="switch">switch</div>
+[78]<button>Inference Available</button>
+[79]<button>Sort: Trending</button>
+[80]<a>nvidia/LocateAnything-3B Image-Text-to-Text • 4B • Updated 11 days ago • 111k • </a>
+[81]<a>google/gemma-4-12B-it Any-to-Any • 12B • Updated 3 days ago • 315k • 622</a>
+[82]<a>unsloth/gemma-4-12b-it-GGUF Image-Text-to-Text • 12B • Updated 1 day ago • 458k </a>
+[83]<a>google/gemma-4-12B Any-to-Any • 12B • Updated 3 days ago • 84.5k • 380</a>
+[84]<a>HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive Image-Text-to-Text • 35B</a>
+[85]<a>ideogram-ai/ideogram-4-fp8 Text-to-Image • Updated 3 days ago • 2.82k • 311</a>
+[86]<a>sapientinc/HRM-Text-1B Text Generation • 1B • Updated 17 days ago • 162k • 712</a>
+[87]<a>LiquidAI/LFM2.5-8B-A1B Text Generation • 8B • Updated 1 day ago • 95.4k • 534</a>
+[88]<a>JetBrains/Mellum2-12B-A2.5B-Thinking Text Generation • 12B • Updated 6 days ago </a>
+[89]<a>ideogram-ai/ideogram-4-nf4 Text-to-Image • Updated 2 days ago • 2.67k • 215</a>
+[90]<a>Learn more</a>
+[91]<button>Browse available models</button>
+[92]<button>Dismiss</button>
+[93]<div></div>
+[94]<div></div>
+[95]<div></div>
+[96]<span>Base only</span>

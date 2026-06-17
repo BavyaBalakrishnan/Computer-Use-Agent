@@ -1,0 +1,29 @@
+# secrets / env
+.env
+.env.*
+!.env.example
+
+# runtime state
+state/
+sandbox/
+usage.json
+
+# keep the README's referenced session artifacts (screenshots + page-state logs)
+# git won't descend into an ignored dir, so re-include each parent down to the target
+!state/
+state/*
+!state/sessions/
+state/sessions/*
+!state/sessions/s8-c7462ab4/
+state/sessions/s8-c7462ab4/*
+!state/sessions/s8-c7462ab4/browser/
+!state/sessions/s8-c7462ab4/browser/**
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# os
+.DS_Store

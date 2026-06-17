@@ -1,0 +1,77 @@
+# ── secrets / env ─────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+.eggs/
+build/
+dist/
+.Python
+
+# virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ── package managers / caches ─────────────────────────────────────────────
+.uv/
+uv.lock
+pip-log.txt
+.cache/
+
+# ── test / coverage ───────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# ── runtime state & artifacts ─────────────────────────────────────────────
+state/
+sandbox/
+logs/
+usage.json
+*.faiss
+index_ids.json
+
+# browser run artifacts (screenshots, legends, page-state logs)
+**/browser/browser_*/
+
+# keep the README's referenced session artifacts (screenshots + page-state logs)
+# git won't descend into an ignored dir, so re-include each parent down to the target
+!S9SharedCode/code/state/
+S9SharedCode/code/state/*
+!S9SharedCode/code/state/sessions/
+S9SharedCode/code/state/sessions/*
+!S9SharedCode/code/state/sessions/s8-c7462ab4/
+S9SharedCode/code/state/sessions/s8-c7462ab4/*
+!S9SharedCode/code/state/sessions/s8-c7462ab4/browser/
+!S9SharedCode/code/state/sessions/s8-c7462ab4/browser/**
+
+# ── app-specific generated / binary artifacts ────────────────────────────
+S9SharedCode/README.session9-browser.md
+Infoblox NIOS WAPI 9.x Reference Guide (3).pdf
+output-computer
+c6301fe3-81d7-499a-a7e6-f15aa89736de.md
+llm_gatewayV9/gateway_v8.db
+llm_gatewayV9/gateway_v9.db
+llm_gatewayV9/__pycache__/
+llm_gatewayV9/.DS_Store
+S9SharedCode/logs/
+
+# ── os / editor ───────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
