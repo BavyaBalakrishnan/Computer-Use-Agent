@@ -1,4 +1,4 @@
-# Session 9 — Computer-Use Agent (Desktop Cascade)
+# Session 10 — Computer-Use Agent (Desktop Cascade)
 
 A **computer-use** agent that drives real macOS desktop applications to
 completion and emits a turn-numbered trajectory for each run. It is the
